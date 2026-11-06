@@ -1,0 +1,2 @@
+## Práctica 1
+Primera práctica de Diseño Web 1 de la Universidad Privada Domingo Savio hecho por G.J.L.B para practicar el diseño de html básico, la pagina que hice es como una wiki de un videojuego llamado RimWorld, explicando un poco sobre el videojuego.
